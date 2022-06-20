@@ -2,7 +2,7 @@ name: Update Angular
 
 on:
   schedule:
-    - cron: '0 8 * * 1'
+    - cron: "0 8 * * 1"
   workflow_dispatch:
     branches:
       - master
@@ -17,7 +17,7 @@ jobs:
         with:
           node-version: 16
       - run: npm install
-      
-      - uses: RabbitPlayground/ng-update@v1
+
+      - uses: fast-facts/ng-update@v1
         with:
           repo-token: ${{ secrets.GH_TOKEN }}

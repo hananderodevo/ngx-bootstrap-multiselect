@@ -14,23 +14,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RabbitPlayground/ngx-bootstrap-multiselect.git"
+    "url": "git+https://github.com/fast-facts/ngx-bootstrap-multiselect.git"
   },
   "keywords": [
     "angular 2",
     "dropdown",
     "multi select"
   ],
-  "author": "RabbitPlayground",
+  "author": "fast-facts",
   "contributors": [
     "Simon Lindh - original author",
     "Alex Malkevich <malkevich.alex@gmail.com>"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RabbitPlayground/ngx-bootstrap-multiselect.git"
+    "url": "https://github.com/fast-facts/ngx-bootstrap-multiselect.git"
   },
-  "homepage": "https://github.com/RabbitPlayground/ngx-bootstrap-multiselect.git",
+  "homepage": "https://github.com/fast-facts/ngx-bootstrap-multiselect.git",
   "devDependencies": {
     "@angular-devkit/build-angular": "^14.0.2",
     "@angular/animations": "14.0.2",
