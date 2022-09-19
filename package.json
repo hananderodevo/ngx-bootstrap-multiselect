@@ -1,5 +1,5 @@
 {
-  "name": "ngx-bootstrap-multiselect-updated",
+  "name": "ngx-bootstrap-multiselect",
   "version": "0.0.0-semantic-release",
   "description": "Customizable dropdown multiselect in Angular 2 with bootstrap css.",
   "main": "dist/bundles/dropdown.umd.js",
